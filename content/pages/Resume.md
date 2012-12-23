@@ -1,6 +1,6 @@
 title: Resume
 
-My resume is available in [PDF](|filename|/content/bin/Resume.pdf) and plain text.
+My resume is available in [PDF](|filename|/bin/Resume.pdf) and plain text.
 <pre>
 EDUCATION
     Georgia Institute of Technology

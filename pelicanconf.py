@@ -11,10 +11,6 @@ DEFAULT_LANG = 'en'
 
 THEME = 'mnmlist'
 
-# Blogroll
-LINKS =  ()
-
-# Social widget
-SOCIAL = ()
+STATIC_PATHS = (['bin'])
 
 DEFAULT_PAGINATION = False
