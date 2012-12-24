@@ -11,6 +11,6 @@ DEFAULT_LANG = 'en'
 
 THEME = 'mnmlist'
 
-STATIC_PATHS = (['bin'])
+STATIC_PATHS = (['bin', 'images'])
 
 DEFAULT_PAGINATION = False
