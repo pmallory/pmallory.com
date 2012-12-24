@@ -18,4 +18,24 @@ Notes:
 
 This is the script to generate the csv. Note that it iterates over “iTunes.currentPlaylist().tracks()” meaning that it will collect data from whichever playlist is highlighted in iTunes’ Library pane.
 
-<script src="https://gist.github.com/1772885.js?file=hist.py"></script>
+    :::python
+    from Foundation import *
+    from ScriptingBridge import *
+
+    iTunes = SBApplication.applicationWithBundleIdentifier_(
+                "com.apple.iTunes")
+
+    years = {}
+
+    for track in iTunes.currentPlaylist().tracks():
+        if not track.year() in years:
+            years[track.year()] = 1
+        else:
+            years[track.year()] += 1
+
+    f = open('./out.csv', 'w')
+
+    for key in sorted(years.keys()):
+        f.write(str(key)+', '+str(years[key]) +'\n')
+
+    f.close()
