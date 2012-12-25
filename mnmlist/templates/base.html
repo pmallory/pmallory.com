@@ -26,7 +26,7 @@
             <nav>
                 <center>
                 <ul>
-                    <li><a href="{{ SITEURL }}">Blog</a><a href="/{{ FEED }}"><img src="{{ SITEURL }}/theme/images/feed.png" class="icon" /></a> ::</li>
+                    <li><a href="{{ SITEURL }}">Blog</a><a href="{{ SITEURL }}/feeds/all.atom.xml"><img src="{{ SITEURL }}/theme/images/feed.png" class="icon" /></a> ::</li>
                 {% for page in PAGES %}
                     <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>{% if not loop.last %} ::{% endif %}</li>
                 {% endfor %}
