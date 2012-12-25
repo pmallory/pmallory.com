@@ -3,7 +3,8 @@
 
 AUTHOR = u"Philip Mallory"
 SITENAME = u"Philip Mallory"
-SITEURL = ''
+SITEURL = 'http://www.pmallory.com'
+FEED_DOMAIN = SITEURL
 
 TIMEZONE = 'America/New_York'
 
@@ -15,4 +16,5 @@ STATIC_PATHS = (['bin', 'images'])
 
 DEFAULT_PAGINATION = False
 
-FILES_TO_COPY = (('./robots.txt', 'robots.txt'),)
+FILES_TO_COPY = (('./robots.txt', 'robots.txt'),
+                 ('./favicon.ico', 'favicon.ico'))
