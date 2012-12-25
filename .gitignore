@@ -4,3 +4,4 @@ env/
 output/
 develop_server.sh
 Makefile
+content/images
