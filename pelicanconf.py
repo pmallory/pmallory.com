@@ -14,3 +14,5 @@ THEME = 'mnmlist'
 STATIC_PATHS = (['bin', 'images'])
 
 DEFAULT_PAGINATION = False
+
+FILES_TO_COPY = (('./robots.txt', 'robots.txt'),)
