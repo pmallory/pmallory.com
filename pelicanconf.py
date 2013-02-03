@@ -18,3 +18,5 @@ DEFAULT_PAGINATION = False
 
 FILES_TO_COPY = (('./robots.txt', 'robots.txt'),
                  ('./favicon.ico', 'favicon.ico'))
+
+GOOGLE_ANALYTICS = 'UA-38195849-1'
