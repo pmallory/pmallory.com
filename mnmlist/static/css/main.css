@@ -122,14 +122,14 @@ strong {
 
 /* line 95, ../../compass/src/main.scss */
 tt, pre {
-  background-color: #fafafa;
+  background-color: rgb(240, 239, 206);
   font-family: Inconsolata, Monaco, monospace;
   line-height: 1.2em;
 }
 
 /* line 101, ../../compass/src/main.scss */
 pre {
-  font-size: 0.8em;
+  font-size: 0.75em;
   overflow: auto;
   padding: 10px;
 }
