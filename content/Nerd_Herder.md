@@ -21,7 +21,7 @@ The game is written in C. The nifty technical features include:
 * Music (pcm encoded, not beeps and boops)
 * Inline assembly to access BIOS functionality
 
-Download ROM and Readme: [NerdHerder](/bin/NerdHerder.zip)
+Download ROM and Readme: [NerdHerder](/static/bin/NerdHerder.zip)
 
 Browse Source: [GitHub repo](https://github.com/pmallory/NerdHerder)
 

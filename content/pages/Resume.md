@@ -6,39 +6,41 @@ Philip Mallory
 philip [at] pmallory [dot] com
 EDUCATION
     Georgia Institute of Technology
-        Atlanta, GA 6/2008-present
+        Atlanta, GA 6/2008-5/2014
         Candidate for BS in Computer Science
         Concentrating on hardware devices and networking
-        3.5 GPA in major requirements
 WORK EXPERIENCE
+    Georgia Institute of Technology
+        Atlanta GA - 1/2011-Present
+        Teaching Assistant
+            CS 2261 - Media Device Architecture (C)
+            CS 2340 - Objects and Design (Java)
+    GenomOncology
+        Cleveland OH - 5/2013-8/2013
+        Computer Science intern
+        Genomic data processing (Java)
+        Software testing
     ALTA Language Services
         Atlanta GA - 5/2011-1/2013
         Computer Science Co-op
         Web Development (Python, JavaScript)
-    Georgia Institute of Technology
-        Atlanta GA - 1/2011-9/2011
-        Teaching Assistant, CS 2340 - Objects and Design
-        Advising student teams on the use of object
-            oriented design over the course of a
-            semester long project.
-        Grading tests and projects
 SKILLS AND TOOLS
      Languages:
         Python, SQL, C, JavaScript,
-        Processing, Smalltalk, Java
+        VHDL, Smalltalk, Java, HTML/CSS
       Tools:
         git, *nix, vim, Pylons, MySQL,
-        SQLAlchemy, Amazon Web Services,
-        Soldering iron, Multimeter
+        Selenium, Amazon Web Services,
+        Multimeter, Arduino
       Skills:
-        Unit testing,Continuous deployment
-        Agile development, Digital electronics
+        Object oriented design, version control
+        Unit testing, Continuous deployment
+        Agile development, Digital electronics prototyping
 ACTIVITIES
     Brother of Phi Kappa Theta fraternity
-        House manager, 12/2012-present. $7,000 annual budget
+        House manager, 12/2012-present. $17,000 annual budget
         Recruitment chair, 1/2012-9/2012, $5,000 annual budget
         Meal plan steward, 5/2011-5/2012, $10,000 annual budget
     Captain of ALTA soccer team
-    WREK Radio - volunteer operator
     Home brewing
 </pre>

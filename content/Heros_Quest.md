@@ -16,4 +16,4 @@ and controls are in the in-game menu.
 
 ![battle](/static/images/HeroBattle.png)
 
-You can [browse the source](https://github.com/pmallory/Heros-Quest) on GitHub or [download the rom](|filename|/bin/HerosQuest.gba).
+You can [browse the source](https://github.com/pmallory/Heros-Quest) on GitHub or [download the rom](/static/bin/HerosQuest.gba).
