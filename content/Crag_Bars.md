@@ -4,7 +4,7 @@ date: 2014-9-28
 This is my recipe for chewy, calorie dense, high protein food bars (they're like concentrated Clif Bars).
 These are good for camping or for refueling on really long bike rides.
 This recipe yields 8-10 bars that have about 500 Calories and 23 g of protein each.
-They cost about half as much as an equivalent amount of Clif Bars, the ingredients for one batch cost less than $10.
+The ingredients for one batch cost less than $10, about half as much as an equivalent amount of Clif Bars.
 
 Ingredients
 -----------
