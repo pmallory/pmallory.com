@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block navclass %}active{%endblock%}
+{% block content %}
+    <section id="content" class="content">
+      {% block content_title %}
+      {% endblock %}
+      {% for article in articles_page.object_list %}
+      {% if loop.first %}
+<!-- .entry-content -->
+      <section class="article">
+      <header>
+      <h2 class="entry-title">
+        {{ article.title }}
+      </h2>
+      <div class="text-muted">{{ article.locale_date }}</div>
+      </header>
+      <div class="entry-content">
+        {{ article.content }}
+      </div>
+      </section>
+      <hr>
+      <h3>Previous Posts</h3>
+<!-- /.entry-content -->
+      {% else %}
+      <div class="row">
+        <div class="col-sm-3">
+          <span class="text-muted">{{article.locale_date}}</span>
+        </div>
+        <div class="col-sm-9">
+          <p>
+            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title|striptags }}</a>
+            <br/>
+            {{ article.summary|striptags }}
+          </p>
+        </div>
+      </div>
+      {% endif %}
+      {% endfor %}
+      {% include 'pagination.html' %}
+    </section>
+    <!-- content -->
+{% endblock content %}

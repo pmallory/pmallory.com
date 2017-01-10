@@ -1,7 +1,8 @@
 title: Square Taper Bottom Bracket Replacement
 date: 2014-7-2
+category: Useful Info
 
-<a href="/static/images/bottom_bracket/beforeAfter.JPG"><img src="/static/images/bottom_bracket/small-beforeAfter.JPG" alt="Old and new bottom brackets" class="center" /></a>
+<a href="/images/bottom_bracket/beforeAfter.JPG"><img src="/images/bottom_bracket/small-beforeAfter.JPG" alt="Old and new bottom brackets" class="center" /></a>
 
 I've noticed that most bicycle repair guides on the Internet are written by people who know what they're doing.
 This is probably a good thing, but these resources also tend to assume their readers have some level of background knowledge and basic competence.
@@ -58,35 +59,36 @@ What do?
 1.  The first step is to remove the cranks, if there are dust covers over the crank nuts remove them.
 I pried mine off with a flathead screwdriver, some require an allen wrench.
 You should see something like this:
-<a href="/static/images/bottom_bracket/dustCapRemoved.JPG"><img src="/static/images/bottom_bracket/small-dustCapRemoved.JPG" alt="The crank nut" class="center" /></a>
+<a href="/images/bottom_bracket/dustCapRemoved.JPG"><img src="/images/bottom_bracket/small-dustCapRemoved.JPG" alt="The crank nut" class="center" /></a>
 
     Remove the nut from the spindle (there might also be a washer).
     Don't lose them!
 
 2.  Now it's time to pull the cranks arms off the spindles, this is what the crank puller is for.
     If you're using a compact crank puller like mine it should look like this before you screw it onto the crank:
-<a href="/static/images/bottom_bracket/extractor2.JPG"><img src="/static/images/bottom_bracket/small-extractor2.JPG" alt="crank extractor" class="center" /></a>
+
+    <a href="/images/bottom_bracket/extractor2.JPG"><img src="/images/bottom_bracket/small-extractor2.JPG" alt="crank extractor" class="center" /></a>
 
     If you've ever used a pulley puller this thing operates in about the same way; by screwing the bolt part in you force the crank off of the spindle.
     Play around with until it makes sense, then attach the extractor to the crank arm.
     Screw the extractor's base onto the crank arm being careful not to cross the threads.
-<a href="/static/images/bottom_bracket/extracorInUse.JPG"><img src="/static/images/bottom_bracket/small-extracorInUse.JPG" alt="crank extractor mounted on crank" class="center" /></a>
+<a href="/images/bottom_bracket/extracorInUse.JPG"><img src="/images/bottom_bracket/small-extracorInUse.JPG" alt="crank extractor mounted on crank" class="center" /></a>
 
 3.  Turn the extractors bolt clockwise to force the crank arm off of the spindle.
 If you have to resort to drastic measures like this:
-<a href="/static/images/bottom_bracket/doingItWrong.JPG"><img src="/static/images/bottom_bracket/small-doingItWrong.JPG" alt="Don't do this" class="center" /></a>
+<a href="/images/bottom_bracket/doingItWrong.JPG"><img src="/images/bottom_bracket/small-doingItWrong.JPG" alt="Don't do this" class="center" /></a>
 
     ¡STOP YOU'RE DOING IT WRONG!
 
     The crank arm will be on there tight, but not 100 ft/lbs tight.
     If you can't get the extractor to turn take it off the crank arm and make sure the tip is actually touching the spindle.
     I had to take the tip off of my extractor to get it to fit my cranks:
-<a href="/static/images/bottom_bracket/extractorMod.JPG"><img src="/static/images/bottom_bracket/small-extractorMod.JPG" alt="Modified crank extractor" class="center" /></a>
+<a href="/images/bottom_bracket/extractorMod.JPG"><img src="/images/bottom_bracket/small-extractorMod.JPG" alt="Modified crank extractor" class="center" /></a>
 
 4.  Remove the other crank.
 
 5.  Now it's time to remove the bottom bracket using the bottom bracket wrench:
-<a href="/static/images/bottom_bracket/BBWrench.JPG"><img src="/static/images/bottom_bracket/small-BBWrench.JPG" alt="Bottom bracket wrench" class="center" /></a>
+<a href="/images/bottom_bracket/BBWrench.JPG"><img src="/images/bottom_bracket/small-BBWrench.JPG" alt="Bottom bracket wrench" class="center" /></a>
 
     Put the splines of the bottom bracket tool into the slots of the bottom bracket cups, and wrench away.
 
@@ -101,7 +103,8 @@ If you have to resort to drastic measures like this:
 6.  Time to install the new bottom bracket.
     Grease the threads of the new cups (unless they're plastic).
     I used automotive grease:
-<a href="/static/images/bottom_bracket/grease.JPG"><img src="/static/images/bottom_bracket/small-grease.JPG" alt="Bottom bracket wrench" class="center" /></a>
+<a href="/images/bottom_bracket/grease.JPG"><img src="/images/bottom_bracket/small-grease.JPG" alt="Bottom bracket wrench" class="center" /></a>
+
     A lifetime supply of this stuff costs about $3.
     Some people recomend heavy duty or marine rated grease, I really don't think that's necessary for bicycles though.
 

@@ -1,5 +1,6 @@
 title: Color Cycling
 date: 2014-3-28
+category: Tech
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/8YNk2UNqWzo" frameborder="0" allowfullscreen></iframe>
 

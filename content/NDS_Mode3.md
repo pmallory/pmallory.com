@@ -1,5 +1,6 @@
 title: Bitmap Graphics on the Nintendo DS - Part 2: Mode 3
 date: 2014-2-27
+category: Tech
 
 This is the second post in a two post series on drawing and animating bitmap graphics on the Nintendo DS.
 The first part is [here](bitmap-graphics-on-the-nintendo-ds-part-1-framebuffer-mode.html).
@@ -40,7 +41,7 @@ That's beyond this article though, we just want to draw plain, undistorted image
 This implies that we want our transformation matrix to be an identity matrix (that is when we apply the matrix to our graphics they come through unmodified).
 Here's what a 2d identity matrix looks like:
 
-![Identity matrix](/static/images/identity_matrix.png)
+![Identity matrix](/images/identity_matrix.png)
 
 So how do we get that into the DS?
 
@@ -64,7 +65,7 @@ Let's put some 1.0s and 0.0s into the affine matrices:
 
 The letters A and D in those register names refer to which spot in the matrix that register is for:
 
-![Affine matrix](/static/images/affinematrix.png)
+![Affine matrix](/images/affinematrix.png)
 
 Our code puts 1.0s into A and D of the affine matrices of both backgrounds.
 The other spots are set to 0.0 when the Game Boy turns on so we can leave them as is.
@@ -106,7 +107,7 @@ A corresponding function can be written for the secondary display.
 
 Here's a screen shot of all this in action:
 
-![Mode 3 demo](/static/images/mode3.png)
+![Mode 3 demo](/images/mode3.png)
 
 We've got the same bouncing ball from last time on the main display, and a rectangle and line hanging out on the secondary display.
 

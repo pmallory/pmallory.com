@@ -1,5 +1,6 @@
 title: Iterative Tree Traversal, and Simulating Recursion
 date: 2016-8-18 22:15:00
+category: Tech
 
 Students sometimes ask, "what's the point of recursion?"
 My stock answer is that some problems, like tree traversal, are much easier to solve recursively.<sup><a name="reference1">[1](#footnote1)</a></sup>

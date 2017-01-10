@@ -1,5 +1,6 @@
 title: Meandering Momentum AI
 date: 2013-10-4 17:08:00
+category: Tech
 
 I wrote an example of basic NPC movement AI for a class I TA.
 

@@ -1,5 +1,7 @@
 title: Bitmap Graphics on the Nintendo DS - Part 1: Framebuffer mode
 date: 2014-2-1
+category: Tech
+
 This is the first post in a two part series on drawing and animating bitmap graphics on the Nintendo DS.
 The second part is [here](bitmap-graphics-on-the-nintendo-ds-part-2-mode-3.html).
 

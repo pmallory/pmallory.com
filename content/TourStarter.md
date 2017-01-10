@@ -1,5 +1,6 @@
 title: TourStarter 0.5
 date: 2013-1-27 20:51:00
+category: Tech
 
 My most recent project, [TourStarter](http://tourstarter.pmallory.com/) is feature complete!
 

@@ -1,10 +1,9 @@
 title: About Me
 
 Hello, I'm Philip Mallory and this is my web site!
-I study computer science at [Georgia Tech](http://www.gatech.edu/). I also work
-at [ALTA Language Services](http://www.altalang.com/) during alternating
-semesters where I do web development and other general programming stuff. You
-can check out my code at [GitHub](https://github.com/pmallory).
+I teach backend web development at [Udacity](https://www.udacity.com).
+I studied computer science at [Georgia Tech](http://www.gatech.edu/) which was great and I'd recommend it to anyone.
+You can check out my code at [GitHub](https://github.com/pmallory).
 
 You can contact me at philip [at] pmallory [dot] com
 

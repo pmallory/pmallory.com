@@ -1,9 +1,10 @@
 title: Nerd Herder
 date: 2011-10-10
+category: Tech
 
 Nerd Herder is an arcade style game for the Gameboy Advance.
 
-![splash screen](/static/images/NerdSplash.png)
+![splash screen](/images/NerdSplash.png)
 
 Your goal as head TA is to guide your students to their academic destinies. You
 do this by chasing the best and brightest students to the dorm to study, while
@@ -11,7 +12,7 @@ driving the less capable to the M-Train¹. At your disposal are your passion
 for quality education and two power ups. A readme is included with the ROM with
 a more complete description of gameplay.
 
-![action shot](/static/images/NerdGameplay.png)
+![action shot](/images/NerdGameplay.png)
 
 The game is written in C. The nifty technical features include:
 

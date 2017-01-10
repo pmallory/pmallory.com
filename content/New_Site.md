@@ -1,5 +1,6 @@
 title: New Site!
 date: 2012-05-10 00:00:00
+category: misc
 
 I've been wanting to replace my old WordPress blog for awhile, so for the past
 couple of months I've been writing a [static site

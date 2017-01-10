@@ -1,5 +1,6 @@
 title: GitHub Drinkup - Atlanta 5/9/2012
 date: 2012-05-10 00:00:00
+category: Tech
 
 GitHub hosted a drinkup in midtown last night and it was pretty great. Here's the executive summary:
 

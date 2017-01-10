@@ -1,5 +1,6 @@
 title: Reading Log
 date: 2015-6-7
+category: misc
 
 I've decided to start logging the books I read and to write brief book reports about them.
 I think maintaining a log will confer a lot of the same benefits of maintaining a personal library (reflecting on previous reads, showing off) except without the trouble of buying, storing and organizing tons of books.

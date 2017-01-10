@@ -1,20 +1,21 @@
 title: Linear Recurrence Generator
 date: 2013-2-20 15:24:00
+category: Tech
 
 A sequence whose elements are calculated from earlier elements in the series is a linear recurrence.
 The Fibonacci sequence (0, 1, 1, 2, 3, 5, &hellip;) is an example:
-![a_n = a_{n-1}+a_{n-2}](/static/images/fibonacci.png)
+![a_n = a_{n-1}+a_{n-2}](/images/fibonacci.png)
 
 With the equation and the first two numbers in the sequence, you can calculate the rest.
 
 There are more complicated sequences that are also linear recurrences:
-![a_n = a_{n-1}-2a_n-3}](/static/images/linearrecurrence1.png)
+![a_n = a_{n-1}-2a_n-3}](/images/linearrecurrence1.png)
 
 You can multiply each term by a constant and still have a linear equation.
 Here the coefficients are 1, 0 and -2.
 
 You can also multiply terms by things that aren't constant:
-![a_n = na_n-1}](/static/images/linearrecurrence2.png)
+![a_n = na_n-1}](/images/linearrecurrence2.png)
 
 This is called a nonhomogeneous linear recurrence equation.
 The previous examples were homogeneous linear recurrence equations.
