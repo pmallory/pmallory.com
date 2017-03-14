@@ -8,7 +8,7 @@ There's a bunch of stuff I didn't photograph because I didn't feel like stopping
 
 Here are the photos, click them to view in full resolution.
 
-<a href="/images/metamorphic_rock.jpg"><img src="static/images/metamorphic_rock_small.jpg" alt="rock face" class="center" /></a>
+<a href="/images/metamorphic_rock.jpg"><img src="/images/metamorphic_rock_small.jpg" alt="rock face" class="center" /></a>
 <p>The path of the Silver Comet Railroad was roadcut (ravines were carved through the hills) to minimize elevation changes. These areas of the trail are pleasantly shady.</p>
 
 <a href="/images/Brushy_Mountain_Tunnel.jpg"><img src="/images/Brushy_Mountain_Tunnel_small.jpg" alt="Brushy Mountain Tunnel" class="center"/></a>

@@ -68,12 +68,12 @@ If we wait until the value in the scanline register ticks past the last row of t
 So that's frame buffer mode.
 I've made a demo that puts it all together:
 <video width="480" height="476" controls>
-    <source src="/static/bin/ndsfb.mp4" type="video/mp4">
+    <source src="/bin/ndsfb.mp4" type="video/mp4">
     Your browser does not support HTML5 video.
 </video>
 
 You can browse the source of this demo on [GitHub](https://github.com/pmallory/nds_framebuffer_bitmaps).
-If you'd like to run the demo in an emulator you can [download the ROM](/static/bin/nds_framebuffer_bitmaps.nds).
+If you'd like to run the demo in an emulator you can [download the ROM](/bin/nds_framebuffer_bitmaps.nds).
 
 So what are the downsides of frame buffer mode?
 The most obvious limitation is that it only lets you draw to one of the DS's screens.

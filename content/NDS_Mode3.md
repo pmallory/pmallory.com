@@ -112,7 +112,7 @@ Here's a screen shot of all this in action:
 We've got the same bouncing ball from last time on the main display, and a rectangle and line hanging out on the secondary display.
 
 If you'd like to browse the source of this demo or download the code head on over to [GitHub](https://github.com/pmallory/nds_mode3_bitmaps).
-You can also [download the ROM](/static/bin/nds_mode3_bitmaps.nds) to run in an emulator.
+You can also [download the ROM](/bin/nds_mode3_bitmaps.nds) to run in an emulator.
 
 Further Reading
 ---------------
