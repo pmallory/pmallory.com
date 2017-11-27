@@ -6,8 +6,8 @@ Philip Mallory
 philip [at] pmallory [dot] com
 WORK EXPERIENCE
     Udacity - Mountain View CA
-        Course Developer - 2/2016-Present
-            Backend web development instructor (Python, Flask, PostgreSQL)
+        Course Developer - 2/2016-s-2017
+            Creating backend web development instruction (Python, Flask, PostgreSQL)
         Course Manager - 5/2014-2/2016
             Developing internal software projects (Python, Google App Engine)
             Coaching students in software engineering, computer
@@ -47,7 +47,7 @@ EDUCATION
         Concentrations on hardware devices and networking
 SKILLS AND TOOLS
      Languages:
-        Python, C, JavaScript, R
+        Python, C, Scala, JavaScript, R
         Java, JavaScript, Arduino
       Tools:
         *nix, vim, Selenium, Amazon Web Services,
@@ -60,5 +60,5 @@ ACTIVITIES
     Bicycling
     Motorcycling
     Oil painting
-    Outdoorsy things
+    Amateur Radio Operator - General Class KM6INO
 </pre>
