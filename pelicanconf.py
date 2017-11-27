@@ -14,7 +14,7 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = 'en'
 
-STATIC_PATHS = (['bin', 'images', '.htaccess'])
+STATIC_PATHS = (['bin', 'images', '.htaccess', 'favicon.ico'])
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
